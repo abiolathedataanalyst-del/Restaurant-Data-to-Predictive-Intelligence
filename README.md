@@ -25,7 +25,6 @@ The central objective is to decode the **"secret sauce"** — the quantifiable f
 | **Feature Engineering** | KMeans Clustering (Geolocation), LabelEncoder, StandardScaler |
 | **Data Export** | OpenPyXL (Excel output) |
 | **Development Environment** | Jupyter Notebook |
-| **Dataset** | Zomato Restaurant Dataset (`zom.csv`) |
 
 ---
 
@@ -145,8 +144,8 @@ This project is part of an ongoing portfolio of data analytics and machine learn
 palate-predictor/
 │
 ├── Restaurant.ipynb          # Main analysis notebook (end-to-end workflow)
-├── zom.csv                   # Source dataset (Zomato restaurant data)
-├── zomato_cleaned.xlsx       # Cleaned and feature-engineered output dataset
+├── Restaurant.csv                   # Source dataset (Zomato restaurant data)
+├── Restaurant_cleaned.xlsx       # Cleaned and feature-engineered output dataset
 └── README.md                 # Project documentation
 ```
 
@@ -158,8 +157,7 @@ palate-predictor/
 Operations Analyst | Data Analytics Professional
 📍 Nigeria
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](your-github-url)
+[![LinkedIn]www.linkedin.com/in/aminu-abiola-81b64910b
 
 ---
 
